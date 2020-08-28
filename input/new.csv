@@ -1,0 +1,1455 @@
+,Symptom,Disease
+0,abdominal tenderness,bacteremia
+1,abdominal tenderness,candidiasis
+2,abdominal tenderness,dementia
+3,abdominal tenderness,diverticulitis
+4,abdominal tenderness,hepatitis B
+5,abdominal tenderness,ileus
+6,abdominal tenderness,ketoacidosis diabetic
+7,abdominal tenderness,oralcandidiasis
+8,abscess bacterial,cellulitis
+9,abscess bacterial,diverticulitis
+10,abscess bacterial,diverticulosis
+11,abscess bacterial,endocarditis
+12,abscess bacterial,ileus
+13,abscess bacterial,infection
+14,abscess bacterial,osteomyelitis
+15,agitation,Alzheimers disease
+16,agitation,anxiety state
+17,agitation,bipolar disorder
+18,agitation,carcinoma of lung
+19,agitation,confusion
+20,agitation,delusion
+21,agitation,dementia
+22,agitation,dependence
+23,agitation,depression mental
+24,agitation,depressive disorder
+25,agitation,glaucoma
+26,agitation,hypothyroidism
+27,agitation,malignant neoplasm of lung
+28,agitation,paranoia
+29,agitation,parkinson disease
+30,agitation,personality disorder
+31,agitation,pneumothorax
+32,agitation,psychotic disorder
+33,agitation,schizophrenia
+34,agitation,suicide attempt
+35,angina pectoris,coronary arteriosclerosis
+36,angina pectoris,coronary heart disease
+37,angina pectoris,failure heart
+38,angina pectoris,hyperlipidemia
+39,angina pectoris,hypertensive disease
+40,angina pectoris,ischemia
+41,angina pectoris,myocardial infarction
+42,angina pectoris,obesity morbid
+43,angina pectoris,peripheral vascular disease
+44,angina pectoris,stenosis aortic valve
+45,anorexia,benign prostatic hypertrophy
+46,anorexia,dehydration
+47,anorexia,diverticulitis
+48,anorexia,diverticulosis
+49,anorexia,hepatitis
+50,anorexia,ischemia
+51,anorexia,peripheral vascular disease
+52,anorexia,thrombus
+53,apyrexial,biliary calculus
+54,apyrexial,cholelithiasis
+55,apyrexial,chronic kidney failure
+56,apyrexial,diverticulitis
+57,apyrexial,embolism pulmonary
+58,apyrexial,endocarditis
+59,apyrexial,exanthema
+60,apyrexial,hernia
+61,apyrexial,ileus
+62,apyrexial,infection
+63,apyrexial,insufficiency renal
+64,apyrexial,neutropenia
+65,apyrexial,osteomyelitis
+66,apyrexial,osteoporosis
+67,apyrexial,pancreatitis
+68,apyrexial,sepsis 
+69,apyrexial,septicemia
+70,apyrexial,sickle cell anemia
+71,apyrexial,spasm bronchial
+72,apyrexial,systemic infection
+73,apyrexial,ulcer peptic
+74,apyrexial,upper respiratory infection
+75,ascites,biliary calculus
+76,ascites,cholecystitis
+77,ascites,cholelithiasis
+78,ascites,cirrhosis
+79,ascites,gout
+80,ascites,hepatitis
+81,ascites,hepatitis C
+82,ascites,hyperglycemia
+83,ascites,insufficiency renal
+84,ascites,malignant neoplasms
+85,ascites,personality disorder
+86,ascites,primary malignant neoplasm
+87,asthenia,accident cerebrovascular
+88,asthenia,anemia
+89,asthenia,arthritis
+90,asthenia,carcinoma of lung
+91,asthenia,carcinoma prostate
+92,asthenia,chronic kidney failure
+93,asthenia,confusion
+94,asthenia,degenerative polyarthritis
+95,asthenia,deglutition disorder
+96,asthenia,dehydration
+97,asthenia,diabetes
+98,asthenia,gastroesophageal reflux disease
+99,asthenia,hemiparesis
+100,asthenia,hernia
+101,asthenia,hypertensive disease
+102,asthenia,hypothyroidism
+103,asthenia,incontinence
+104,asthenia,infection urinary tract
+105,asthenia,insufficiency renal
+106,asthenia,kidney failure acute
+107,asthenia,malignant neoplasm of lung
+108,asthenia,malignant neoplasm of prostate
+109,asthenia,neuropathy
+110,asthenia,transient ischemic attack
+111,blackout,anxiety state
+112,blackout,benign prostatic hypertrophy
+113,blackout,bipolar disorder
+114,blackout,dehydration
+115,blackout,delusion
+116,blackout,depression mental
+117,blackout,depressive disorder
+118,blackout,effusion pericardial
+119,blackout,influenza
+120,blackout,paranoia
+121,blackout,pericardial effusion body substance
+122,blackout,psychotic disorder
+123,blackout,suicide attempt
+124,bradycardia,carcinoma colon
+125,bradycardia,hyperbilirubinemia
+126,bradycardia,hypercholesterolemia
+127,bradycardia,ischemia
+128,bradycardia,malignant tumor of colon
+129,bradycardia,myocardial infarction
+130,bradycardia,sepsis 
+131,bradycardia,septicemia
+132,bradycardia,stenosis aortic valve
+133,bradycardia,systemic infection
+134,bradycardia,tricuspid valve insufficiency
+135,breath sounds decreased,carcinoma prostate
+136,breath sounds decreased,chronic alcoholic intoxication
+137,breath sounds decreased,endocarditis
+138,breath sounds decreased,hypertension pulmonary
+139,breath sounds decreased,insufficiency renal
+140,breath sounds decreased,malignant neoplasm of prostate
+141,breath sounds decreased,pneumonia
+142,chest discomfort,edema pulmonary
+143,chest discomfort,hypercholesterolemia
+144,chest discomfort,hyperlipidemia
+145,chest discomfort,ischemia
+146,chest discomfort,mitral valve insufficiency
+147,chest discomfort,myocardial infarction
+148,chest discomfort,stenosis aortic valve
+149,chest tightness,asthma
+150,chest tightness,bronchitis
+151,chest tightness,chronic kidney failure
+152,chest tightness,chronic obstructive airway disease
+153,chest tightness,coronary arteriosclerosis
+154,chest tightness,coronary heart disease
+155,chest tightness,gastroesophageal reflux disease
+156,chest tightness,myocardial infarction
+157,chest tightness,spasm bronchial
+158,chill,HIV
+159,chill,Pneumocystis carinii pneumonia
+160,chill,acquired immuno-deficiency syndrome
+161,chill,anemia
+162,chill,bacteremia
+163,chill,bronchitis
+164,chill,candidiasis
+165,chill,cellulitis
+166,chill,chronic kidney failure
+167,chill,colitis
+168,chill,exanthema
+169,chill,hepatitis
+170,chill,hepatitis C
+171,chill,hiv infections
+172,chill,infection
+173,chill,influenza
+174,chill,lymphatic diseases
+175,chill,malignant neoplasms
+176,chill,neutropenia
+177,chill,oralcandidiasis
+178,chill,pneumonia
+179,chill,pyelonephritis
+180,chill,sepsis 
+181,chill,septicemia
+182,chill,systemic infection
+183,consciousness clear,Alzheimers disease
+184,consciousness clear,anxiety state
+185,consciousness clear,confusion
+186,consciousness clear,encephalopathy
+187,consciousness clear,infection urinary tract
+188,consciousness clear,psychotic disorder
+189,consciousness clear,respiratory failure
+190,constipation,adenocarcinoma
+191,constipation,carcinoma
+192,constipation,carcinoma colon
+193,constipation,cholecystitis
+194,constipation,diverticulitis
+195,constipation,diverticulosis
+196,constipation,emphysema pulmonary
+197,constipation,gastroesophageal reflux disease
+198,constipation,ileus
+199,constipation,malignant tumor of colon
+200,cough,Alzheimers disease
+201,cough,HIV
+202,cough,acquired immuno-deficiency syndrome
+203,cough,asthma
+204,cough,bronchitis
+205,cough,carcinoma of lung
+206,cough,chronic obstructive airway disease
+207,cough,dementia
+208,cough,endocarditis
+209,cough,failure heart congestive
+210,cough,hemorrhoids
+211,cough,hepatitis C
+212,cough,hiv infections
+213,cough,hyperbilirubinemia
+214,cough,infection
+215,cough,malignant neoplasm of lung
+216,cough,neutropenia
+217,cough,obesity morbid
+218,cough,paroxysmal dyspnea
+219,cough,pneumonia
+220,cough,pneumonia aspiration
+221,cough,pneumothorax
+222,cough,primary carcinoma of the liver cells
+223,cough,suicide attempt
+224,cough,upper respiratory infection
+225,cushingoid facies,biliary calculus
+226,cushingoid facies,cholelithiasis
+227,cushingoid facies,hyperbilirubinemia
+228,cushingoid facies,hyperglycemia
+229,cushingoid facies,malignant neoplasms
+230,cushingoid facies,pancytopenia
+231,cushingoid facies,primary malignant neoplasm
+232,cushingoid habitus,biliary calculus
+233,cushingoid habitus,cholelithiasis
+234,cushingoid habitus,hyperbilirubinemia
+235,cushingoid habitus,hyperglycemia
+236,cushingoid habitus,malignant neoplasms
+237,cushingoid habitus,pancytopenia
+238,cushingoid habitus,primary malignant neoplasm
+239,decreased body weight,HIV
+240,decreased body weight,Pneumocystis carinii pneumonia
+241,decreased body weight,acquired immuno-deficiency syndrome
+242,decreased body weight,adenocarcinoma
+243,decreased body weight,adhesion
+244,decreased body weight,bronchitis
+245,decreased body weight,candidiasis
+246,decreased body weight,carcinoma
+247,decreased body weight,carcinoma prostate
+248,decreased body weight,deglutition disorder
+249,decreased body weight,endocarditis
+250,decreased body weight,gastritis
+251,decreased body weight,gastroenteritis
+252,decreased body weight,hiv infections
+253,decreased body weight,hyperglycemia
+254,decreased body weight,lymphatic diseases
+255,decreased body weight,lymphoma
+256,decreased body weight,malignant neoplasm of prostate
+257,decreased body weight,malignant neoplasms
+258,decreased body weight,neoplasm
+259,decreased body weight,oralcandidiasis
+260,decreased body weight,primary carcinoma of the liver cells
+261,decreased body weight,primary malignant neoplasm
+262,decreased body weight,tonic-clonic epilepsy
+263,decreased body weight,tonic-clonic seizures
+264,decreased translucency,bacteremia
+265,decreased translucency,carcinoma of lung
+266,decreased translucency,infection
+267,decreased translucency,malignant neoplasm of lung
+268,decreased translucency,malignant neoplasms
+269,decreased translucency,pneumonia
+270,decreased translucency,pneumonia aspiration
+271,decreased translucency,upper respiratory infection
+272,diarrhea,HIV
+273,diarrhea,Pneumocystis carinii pneumonia
+274,diarrhea,acquired immuno-deficiency syndrome
+275,diarrhea,bacteremia
+276,diarrhea,biliary calculus
+277,diarrhea,candidiasis
+278,diarrhea,carcinoma
+279,diarrhea,carcinoma colon
+280,diarrhea,carcinoma prostate
+281,diarrhea,cholecystitis
+282,diarrhea,cholelithiasis
+283,diarrhea,chronic kidney failure
+284,diarrhea,dehydration
+285,diarrhea,delirium
+286,diarrhea,diverticulitis
+287,diarrhea,diverticulosis
+288,diarrhea,hemorrhoids
+289,diarrhea,hiv infections
+290,diarrhea,ileus
+291,diarrhea,infection
+292,diarrhea,insufficiency renal
+293,diarrhea,ketoacidosis diabetic
+294,diarrhea,kidney failure acute
+295,diarrhea,malignant neoplasm of prostate
+296,diarrhea,malignant tumor of colon
+297,diarrhea,melanoma
+298,diarrhea,oralcandidiasis
+299,diarrhea,pancreatitis
+300,diarrhea,pneumonia aspiration
+301,diarrhea,pyelonephritis
+302,difficulty,anxiety state
+303,difficulty,bipolar disorder
+304,difficulty,carcinoma breast
+305,difficulty,depression mental
+306,difficulty,depressive disorder
+307,difficulty,hypothyroidism
+308,difficulty,insufficiency renal
+309,difficulty,malignant neoplasm of breast
+310,difficulty,manic disorder
+311,difficulty,parkinson disease
+312,difficulty,suicide attempt
+313,difficulty,transient ischemic attack
+314,distended abdomen,arthritis
+315,distended abdomen,bacteremia
+316,distended abdomen,cirrhosis
+317,distended abdomen,glaucoma
+318,distended abdomen,hepatitis C
+319,distended abdomen,osteoporosis
+320,distended abdomen,overload fluid
+321,distress respiratory,asthma
+322,distress respiratory,benign prostatic hypertrophy
+323,distress respiratory,chronic obstructive airway disease
+324,distress respiratory,embolism pulmonary
+325,distress respiratory,hepatitis
+326,distress respiratory,hypoglycemia
+327,distress respiratory,infection urinary tract
+328,distress respiratory,influenza
+329,distress respiratory,malignant neoplasms
+330,distress respiratory,neutropenia
+331,distress respiratory,pneumonia
+332,distress respiratory,sepsis 
+333,distress respiratory,septicemia
+334,distress respiratory,systemic infection
+335,dizziness,anemia
+336,dizziness,confusion
+337,dizziness,dehydration
+338,dizziness,gastritis
+339,dizziness,hemorrhoids
+340,dizziness,hyperlipidemia
+341,dizziness,hypertensive disease
+342,dizziness,migraine disorders
+343,drowsiness,degenerative polyarthritis
+344,drowsiness,delirium
+345,drowsiness,encephalopathy
+346,drowsiness,epilepsy
+347,drowsiness,hemiparesis
+348,drowsiness,hypothyroidism
+349,drowsiness,ischemia
+350,drowsiness,overload fluid
+351,drowsiness,parkinson disease
+352,drowsiness,suicide attempt
+353,drowsiness,tonic-clonic epilepsy
+354,drowsiness,tonic-clonic seizures
+355,dysarthria,accident cerebrovascular
+356,dysarthria,benign prostatic hypertrophy
+357,dysarthria,confusion
+358,dysarthria,deglutition disorder
+359,dysarthria,hemiparesis
+360,dysarthria,transient ischemic attack
+361,dyspnea,bronchitis
+362,dyspnea,carcinoma breast
+363,dyspnea,cardiomyopathy
+364,dyspnea,chronic obstructive airway disease
+365,dyspnea,edema pulmonary
+366,dyspnea,effusion pericardial
+367,dyspnea,embolism pulmonary
+368,dyspnea,emphysema pulmonary
+369,dyspnea,failure heart
+370,dyspnea,failure heart congestive
+371,dyspnea,hypercholesterolemia
+372,dyspnea,insufficiency renal
+373,dyspnea,ischemia
+374,dyspnea,malignant neoplasm of breast
+375,dyspnea,mitral valve insufficiency
+376,dyspnea,myocardial infarction
+377,dyspnea,obesity morbid
+378,dyspnea,paroxysmal dyspnea
+379,dyspnea,pericardial effusion body substance
+380,dyspnea,peripheral vascular disease
+381,dyspnea,pneumothorax
+382,dyspnea,respiratory failure
+383,dyspnea,spasm bronchial
+384,dyspnea,upper respiratory infection
+385,dyspnea on exertion,Pneumocystis carinii pneumonia
+386,dyspnea on exertion,cardiomyopathy
+387,dyspnea on exertion,coronary arteriosclerosis
+388,dyspnea on exertion,coronary heart disease
+389,dyspnea on exertion,emphysema pulmonary
+390,dyspnea on exertion,failure heart
+391,dyspnea on exertion,hernia hiatal
+392,dyspnea on exertion,hypertension pulmonary
+393,dyspnea on exertion,mitral valve insufficiency
+394,dyspnea on exertion,paroxysmal dyspnea
+395,dyspnea on exertion,stenosis aortic valve
+396,energy increased,bipolar disorder
+397,energy increased,depression mental
+398,energy increased,depressive disorder
+399,energy increased,manic disorder
+400,energy increased,paranoia
+401,energy increased,psychotic disorder
+402,erythema,carcinoma breast
+403,erythema,cellulitis
+404,erythema,deep vein thrombosis
+405,erythema,exanthema
+406,erythema,gout
+407,erythema,infection
+408,erythema,malignant neoplasm of breast
+409,erythema,osteomyelitis
+410,facial paresis,Alzheimers disease
+411,facial paresis,accident cerebrovascular
+412,facial paresis,aphasia
+413,facial paresis,dementia
+414,facial paresis,effusion pericardial
+415,facial paresis,hemiparesis
+416,facial paresis,parkinson disease
+417,facial paresis,pericardial effusion body substance
+418,facial paresis,thrombus
+419,facial paresis,transient ischemic attack
+420,fall,cirrhosis
+421,fall,confusion
+422,fall,dementia
+423,fall,glaucoma
+424,fall,hypertensive disease
+425,fall,hypothyroidism
+426,fall,incontinence
+427,fall,osteoporosis
+428,fall,parkinson disease
+429,fatigue,anemia
+430,fatigue,cardiomyopathy
+431,fatigue,failure heart
+432,fatigue,failure kidney
+433,fatigue,hypothyroidism
+434,fatigue,lymphatic diseases
+435,fatigue,lymphoma
+436,fatigue,mitral valve insufficiency
+437,fatigue,obesity
+438,fatigue,pancytopenia
+439,fatigue,suicide attempt
+440,fatigue,thrombocytopaenia
+441,feeling hopeless,affect labile
+442,feeling hopeless,anxiety state
+443,feeling hopeless,bipolar disorder
+444,feeling hopeless,chronic alcoholic intoxication
+445,feeling hopeless,delusion
+446,feeling hopeless,dependence
+447,feeling hopeless,depression mental
+448,feeling hopeless,depressive disorder
+449,feeling hopeless,diverticulosis
+450,feeling hopeless,manic disorder
+451,feeling hopeless,personality disorder
+452,feeling hopeless,psychotic disorder
+453,feeling suicidal,HIV
+454,feeling suicidal,acquired immuno-deficiency syndrome
+455,feeling suicidal,adhesion
+456,feeling suicidal,anxiety state
+457,feeling suicidal,bipolar disorder
+458,feeling suicidal,chronic alcoholic intoxication
+459,feeling suicidal,delirium
+460,feeling suicidal,depression mental
+461,feeling suicidal,depressive disorder
+462,feeling suicidal,diverticulosis
+463,feeling suicidal,hepatitis C
+464,feeling suicidal,hiv infections
+465,feeling suicidal,manic disorder
+466,feeling suicidal,paranoia
+467,feeling suicidal,psychotic disorder
+468,fever,Alzheimers disease
+469,fever,HIV
+470,fever,acquired immuno-deficiency syndrome
+471,fever,bacteremia
+472,fever,bronchitis
+473,fever,cellulitis
+474,fever,chronic kidney failure
+475,fever,colitis
+476,fever,decubitus ulcer
+477,fever,dehydration
+478,fever,delirium
+479,fever,dementia
+480,fever,diverticulitis
+481,fever,exanthema
+482,fever,fibroid tumor
+483,fever,gastroenteritis
+484,fever,hepatitis
+485,fever,hiv infections
+486,fever,infection
+487,fever,infection urinary tract
+488,fever,influenza
+489,fever,kidney disease
+490,fever,lymphatic diseases
+491,fever,lymphoma
+492,fever,melanoma
+493,fever,migraine disorders
+494,fever,osteomyelitis
+495,fever,pneumonia
+496,fever,pneumonia aspiration
+497,fever,pyelonephritis
+498,fever,sepsis 
+499,fever,septicemia
+500,fever,spasm bronchial
+501,fever,suicide attempt
+502,fever,systemic infection
+503,fever,thrombocytopaenia
+504,fever,tricuspid valve insufficiency
+505,fever,upper respiratory infection
+506,general discomfort,carcinoma
+507,general discomfort,carcinoma colon
+508,general discomfort,degenerative polyarthritis
+509,general discomfort,gastroesophageal reflux disease
+510,general discomfort,hernia hiatal
+511,general discomfort,malignant tumor of colon
+512,guaiac positive,anemia
+513,guaiac positive,carcinoma prostate
+514,guaiac positive,chronic kidney failure
+515,guaiac positive,cirrhosis
+516,guaiac positive,gastritis
+517,guaiac positive,hemorrhoids
+518,guaiac positive,hernia hiatal
+519,guaiac positive,insufficiency renal
+520,guaiac positive,malignant neoplasm of prostate
+521,gurgle,carcinoma of lung
+522,gurgle,epilepsy
+523,gurgle,ketoacidosis diabetic
+524,gurgle,malignant neoplasm of lung
+525,gurgle,pneumonia aspiration
+526,gurgle,ulcer peptic
+527,haemoptysis,bronchitis
+528,haemoptysis,carcinoma of lung
+529,haemoptysis,lymphoma
+530,haemoptysis,malignant neoplasm of lung
+531,haemoptysis,pneumonia
+532,haemoptysis,pneumothorax
+533,haemorrhage,anemia
+534,haemorrhage,diverticulosis
+535,haemorrhage,encephalopathy
+536,haemorrhage,failure kidney
+537,haemorrhage,fibroid tumor
+538,haemorrhage,gastritis
+539,haemorrhage,hemorrhoids
+540,haemorrhage,hernia
+541,haemorrhage,kidney failure acute
+542,haemorrhage,pancytopenia
+543,haemorrhage,primary carcinoma of the liver cells
+544,haemorrhage,sepsis 
+545,haemorrhage,septicemia
+546,haemorrhage,systemic infection
+547,haemorrhage,thrombocytopaenia
+548,hallucinations auditory,anxiety state
+549,hallucinations auditory,bipolar disorder
+550,hallucinations auditory,chronic alcoholic intoxication
+551,hallucinations auditory,delirium
+552,hallucinations auditory,delusion
+553,hallucinations auditory,dementia
+554,hallucinations auditory,depression mental
+555,hallucinations auditory,depressive disorder
+556,hallucinations auditory,hepatitis C
+557,hallucinations auditory,manic disorder
+558,hallucinations auditory,paranoia
+559,hallucinations auditory,personality disorder
+560,hallucinations auditory,psychotic disorder
+561,hallucinations auditory,schizophrenia
+562,hallucinations auditory,suicide attempt
+563,hallucinations visual,adhesion
+564,hallucinations visual,affect labile
+565,hallucinations visual,anxiety state
+566,hallucinations visual,bipolar disorder
+567,hallucinations visual,depression mental
+568,hallucinations visual,depressive disorder
+569,hallucinations visual,manic disorder
+570,hallucinations visual,paranoia
+571,hallucinations visual,psychotic disorder
+572,hallucinations visual,schizophrenia
+573,headache,Pneumocystis carinii pneumonia
+574,headache,candidiasis
+575,headache,confusion
+576,headache,exanthema
+577,headache,hernia hiatal
+578,headache,influenza
+579,headache,neoplasm
+580,headache,oralcandidiasis
+581,headache,sickle cell anemia
+582,headache,tonic-clonic epilepsy
+583,headache,tonic-clonic seizures
+584,headache,transient ischemic attack
+585,hematuria,carcinoma prostate
+586,hematuria,infection urinary tract
+587,hematuria,malignant neoplasm of prostate
+588,hematuria,malignant neoplasms
+589,hematuria,neoplasm
+590,hematuria,parkinson disease
+591,hematuria,primary malignant neoplasm
+592,hematuria,pyelonephritis
+593,hemiplegia,accident cerebrovascular
+594,hemiplegia,epilepsy
+595,hemiplegia,hemiparesis
+596,hemiplegia,hernia
+597,hemiplegia,hyperlipidemia
+598,hemiplegia,parkinson disease
+599,hemiplegia,pneumonia aspiration
+600,hemiplegia,respiratory failure
+601,hemiplegia,spasm bronchial
+602,hemiplegia,ulcer peptic
+603,hemodynamically stable,arthritis
+604,hemodynamically stable,carcinoma prostate
+605,hemodynamically stable,cirrhosis
+606,hemodynamically stable,colitis
+607,hemodynamically stable,effusion pericardial
+608,hemodynamically stable,infection urinary tract
+609,hemodynamically stable,kidney failure acute
+610,hemodynamically stable,malignant neoplasm of prostate
+611,hemodynamically stable,pericardial effusion body substance
+612,hemodynamically stable,thrombus
+613,hemodynamically stable,upper respiratory infection
+614,homelessness,bipolar disorder
+615,homelessness,chronic alcoholic intoxication
+616,homelessness,dependence
+617,homelessness,depression mental
+618,homelessness,depressive disorder
+619,homelessness,paranoia
+620,homelessness,personality disorder
+621,homelessness,psychotic disorder
+622,homelessness,schizophrenia
+623,hyperkalemia,Alzheimers disease
+624,hyperkalemia,chronic kidney failure
+625,hyperkalemia,edema pulmonary
+626,hyperkalemia,insufficiency renal
+627,hyperkalemia,kidney disease
+628,hyperkalemia,kidney failure acute
+629,hyperkalemia,overload fluid
+630,hyperkalemia,peripheral vascular disease
+631,hyperkalemia,respiratory failure
+632,hypokinesia,cardiomyopathy
+633,hypokinesia,coronary arteriosclerosis
+634,hypokinesia,coronary heart disease
+635,hypokinesia,encephalopathy
+636,hypokinesia,endocarditis
+637,hypokinesia,failure heart
+638,hypokinesia,gout
+639,hypokinesia,hyperlipidemia
+640,hypokinesia,insufficiency renal
+641,hypokinesia,mitral valve insufficiency
+642,hypokinesia,myocardial infarction
+643,hypokinesia,respiratory failure
+644,hypokinesia,thrombus
+645,hyponatremia,anemia
+646,hyponatremia,confusion
+647,hyponatremia,delirium
+648,hyponatremia,gastroenteritis
+649,hyponatremia,gastroesophageal reflux disease
+650,hyponatremia,glaucoma
+651,hyponatremia,hemorrhoids
+652,hyponatremia,hernia hiatal
+653,hyponatremia,hypothyroidism
+654,hyponatremia,infection urinary tract
+655,hypotension,deep vein thrombosis
+656,hypotension,dehydration
+657,hypotension,edema pulmonary
+658,hypotension,effusion pericardial
+659,hypotension,endocarditis
+660,hypotension,failure heart
+661,hypotension,failure kidney
+662,hypotension,hypertension pulmonary
+663,hypotension,hypoglycemia
+664,hypotension,hypothyroidism
+665,hypotension,insufficiency renal
+666,hypotension,kidney failure acute
+667,hypotension,malignant neoplasms
+668,hypotension,overload fluid
+669,hypotension,pericardial effusion body substance
+670,hypotension,sepsis 
+671,hypotension,septicemia
+672,hypotension,systemic infection
+673,hypotension,thrombocytopaenia
+674,intoxication,bipolar disorder
+675,intoxication,dependence
+676,intoxication,depression mental
+677,intoxication,depressive disorder
+678,intoxication,effusion pericardial
+679,intoxication,gastritis
+680,intoxication,pericardial effusion body substance
+681,intoxication,psychotic disorder
+682,irritable mood,anxiety state
+683,irritable mood,bipolar disorder
+684,irritable mood,carcinoma of lung
+685,irritable mood,chronic alcoholic intoxication
+686,irritable mood,delusion
+687,irritable mood,depression mental
+688,irritable mood,depressive disorder
+689,irritable mood,malignant neoplasm of lung
+690,irritable mood,paranoia
+691,irritable mood,personality disorder
+692,irritable mood,psychotic disorder
+693,irritable mood,schizophrenia
+694,irritable mood,suicide attempt
+695,jugular venous distention,cardiomyopathy
+696,jugular venous distention,chronic kidney failure
+697,jugular venous distention,edema pulmonary
+698,jugular venous distention,failure heart
+699,jugular venous distention,failure heart congestive
+700,jugular venous distention,overload fluid
+701,jugular venous distention,paroxysmal dyspnea
+702,lesion,adenocarcinoma
+703,lesion,carcinoma
+704,lesion,carcinoma breast
+705,lesion,carcinoma colon
+706,lesion,carcinoma of lung
+707,lesion,cirrhosis
+708,lesion,deglutition disorder
+709,lesion,exanthema
+710,lesion,glaucoma
+711,lesion,lymphatic diseases
+712,lesion,lymphoma
+713,lesion,malignant neoplasm of breast
+714,lesion,malignant neoplasm of lung
+715,lesion,malignant neoplasms
+716,lesion,malignant tumor of colon
+717,lesion,neoplasm
+718,lesion,neutropenia
+719,lesion,primary carcinoma of the liver cells
+720,lesion,primary malignant neoplasm
+721,lesion,respiratory failure
+722,lethargy,confusion
+723,lethargy,dehydration
+724,lethargy,dementia
+725,lethargy,dependence
+726,lethargy,epilepsy
+727,lethargy,infection urinary tract
+728,lethargy,sepsis 
+729,lethargy,septicemia
+730,lethargy,systemic infection
+731,mass of body structure,adenocarcinoma
+732,mass of body structure,carcinoma
+733,mass of body structure,carcinoma breast
+734,mass of body structure,carcinoma prostate
+735,mass of body structure,gastroenteritis
+736,mass of body structure,glaucoma
+737,mass of body structure,hernia
+738,mass of body structure,hypothyroidism
+739,mass of body structure,ileus
+740,mass of body structure,lymphatic diseases
+741,mass of body structure,malignant neoplasm of breast
+742,mass of body structure,malignant neoplasm of prostate
+743,mass of body structure,malignant neoplasms
+744,mass of body structure,melanoma
+745,mass of body structure,neoplasm
+746,mass of body structure,neoplasm metastasis
+747,mass of body structure,parkinson disease
+748,mass of body structure,primary carcinoma of the liver cells
+749,mass of body structure,primary malignant neoplasm
+750,mental status changes,benign prostatic hypertrophy
+751,mental status changes,chronic kidney failure
+752,mental status changes,confusion
+753,mental status changes,dehydration
+754,mental status changes,diabetes
+755,mental status changes,hypothyroidism
+756,mental status changes,infection urinary tract
+757,mental status changes,insufficiency renal
+758,mental status changes,pneumonia aspiration
+759,metastatic lesion,carcinoma
+760,metastatic lesion,carcinoma of lung
+761,metastatic lesion,endocarditis
+762,metastatic lesion,malignant neoplasm of lung
+763,metastatic lesion,neoplasm
+764,metastatic lesion,neoplasm metastasis
+765,mood depressed,anxiety state
+766,mood depressed,depression mental
+767,mood depressed,depressive disorder
+768,mood depressed,hyperglycemia
+769,mood depressed,obesity
+770,mood depressed,paranoia
+771,mood depressed,personality disorder
+772,mood depressed,psychotic disorder
+773,motor retardation,bipolar disorder
+774,motor retardation,depression mental
+775,motor retardation,depressive disorder
+776,motor retardation,hypothyroidism
+777,motor retardation,psychotic disorder
+778,motor retardation,suicide attempt
+779,muscle twitch,Alzheimers disease
+780,muscle twitch,aphasia
+781,muscle twitch,confusion
+782,muscle twitch,dependence
+783,muscle twitch,epilepsy
+784,muscle twitch,tonic-clonic epilepsy
+785,muscle twitch,tonic-clonic seizures
+786,myalgia,Pneumocystis carinii pneumonia
+787,myalgia,emphysema pulmonary
+788,myalgia,endocarditis
+789,myalgia,gastroenteritis
+790,myalgia,hernia hiatal
+791,myalgia,hyperbilirubinemia
+792,myalgia,pyelonephritis
+793,nausea,biliary calculus
+794,nausea,carcinoma
+795,nausea,carcinoma colon
+796,nausea,cholecystitis
+797,nausea,cholelithiasis
+798,nausea,chronic kidney failure
+799,nausea,colitis
+800,nausea,dehydration
+801,nausea,diabetes
+802,nausea,diverticulosis
+803,nausea,gastritis
+804,nausea,gastroenteritis
+805,nausea,gastroesophageal reflux disease
+806,nausea,hernia
+807,nausea,hernia hiatal
+808,nausea,hypertensive disease
+809,nausea,ileus
+810,nausea,ketoacidosis diabetic
+811,nausea,malignant tumor of colon
+812,nausea,migraine disorders
+813,nausea,pancreatitis
+814,nausea,pyelonephritis
+815,nausea,tricuspid valve insufficiency
+816,nausea,ulcer peptic
+817,night sweat,HIV
+818,night sweat,acquired immuno-deficiency syndrome
+819,night sweat,benign prostatic hypertrophy
+820,night sweat,bronchitis
+821,night sweat,candidiasis
+822,night sweat,carcinoma of lung
+823,night sweat,emphysema pulmonary
+824,night sweat,endocarditis
+825,night sweat,hiv infections
+826,night sweat,lymphatic diseases
+827,night sweat,malignant neoplasm of lung
+828,night sweat,malignant neoplasms
+829,night sweat,neoplasm
+830,night sweat,neutropenia
+831,night sweat,oralcandidiasis
+832,night sweat,parkinson disease
+833,night sweat,pneumonia
+834,night sweat,upper respiratory infection
+835,nightmare,Alzheimers disease
+836,nightmare,anxiety state
+837,nightmare,depression mental
+838,nightmare,depressive disorder
+839,nightmare,hypothyroidism
+840,nightmare,personality disorder
+841,nightmare,psychotic disorder
+842,non-productive cough,Pneumocystis carinii pneumonia
+843,non-productive cough,asthma
+844,non-productive cough,candidiasis
+845,non-productive cough,carcinoma
+846,non-productive cough,deep vein thrombosis
+847,non-productive cough,degenerative polyarthritis
+848,non-productive cough,embolism pulmonary
+849,non-productive cough,lymphatic diseases
+850,non-productive cough,oralcandidiasis
+851,non-productive cough,pneumonia
+852,non-productive cough,upper respiratory infection
+853,numbness,accident cerebrovascular
+854,numbness,hypercholesterolemia
+855,numbness,hypothyroidism
+856,numbness,migraine disorders
+857,numbness,neuropathy
+858,numbness,transient ischemic attack
+859,oliguria,chronic kidney failure
+860,oliguria,effusion pericardial
+861,oliguria,failure kidney
+862,oliguria,kidney failure acute
+863,oliguria,neutropenia
+864,oliguria,pericardial effusion body substance
+865,orthopnea,benign prostatic hypertrophy
+866,orthopnea,cardiomyopathy
+867,orthopnea,chronic kidney failure
+868,orthopnea,coronary arteriosclerosis
+869,orthopnea,coronary heart disease
+870,orthopnea,diabetes
+871,orthopnea,edema pulmonary
+872,orthopnea,endocarditis
+873,orthopnea,failure heart
+874,orthopnea,failure heart congestive
+875,orthopnea,failure kidney
+876,orthopnea,insufficiency renal
+877,orthopnea,myocardial infarction
+878,orthopnea,overload fluid
+879,orthopnea,paroxysmal dyspnea
+880,orthostasis,anemia
+881,orthostasis,benign prostatic hypertrophy
+882,orthostasis,carcinoma prostate
+883,orthostasis,malignant neoplasm of prostate
+884,orthostasis,parkinson disease
+885,orthostasis,tachycardia sinus
+886,pain,adenocarcinoma
+887,pain,adhesion
+888,pain,anemia
+889,pain,anxiety state
+890,pain,arthritis
+891,pain,biliary calculus
+892,pain,carcinoma
+893,pain,cellulitis
+894,pain,cholecystitis
+895,pain,cholelithiasis
+896,pain,colitis
+897,pain,deep vein thrombosis
+898,pain,degenerative polyarthritis
+899,pain,dementia
+900,pain,diverticulitis
+901,pain,diverticulosis
+902,pain,effusion pericardial
+903,pain,exanthema
+904,pain,gastritis
+905,pain,gastroesophageal reflux disease
+906,pain,gout
+907,pain,hemorrhoids
+908,pain,hernia
+909,pain,hypercholesterolemia
+910,pain,infection
+911,pain,lymphatic diseases
+912,pain,malignant neoplasms
+913,pain,melanoma
+914,pain,mitral valve insufficiency
+915,pain,neoplasm
+916,pain,neoplasm metastasis
+917,pain,neuropathy
+918,pain,obesity
+919,pain,osteomyelitis
+920,pain,osteoporosis
+921,pain,pancreatitis
+922,pain,pericardial effusion body substance
+923,pain,pneumonia aspiration
+924,pain,primary malignant neoplasm
+925,pain,pyelonephritis
+926,pain,sickle cell anemia
+927,pain,spasm bronchial
+928,pain,stenosis aortic valve
+929,pain,tricuspid valve insufficiency
+930,pain abdominal,adenocarcinoma
+931,pain abdominal,biliary calculus
+932,pain abdominal,carcinoma colon
+933,pain abdominal,cholecystitis
+934,pain abdominal,cholelithiasis
+935,pain abdominal,cirrhosis
+936,pain abdominal,colitis
+937,pain abdominal,diverticulitis
+938,pain abdominal,gastritis
+939,pain abdominal,gastroenteritis
+940,pain abdominal,gastroesophageal reflux disease
+941,pain abdominal,hepatitis
+942,pain abdominal,hepatitis B
+943,pain abdominal,hernia
+944,pain abdominal,hernia hiatal
+945,pain abdominal,ileus
+946,pain abdominal,ketoacidosis diabetic
+947,pain abdominal,malignant neoplasms
+948,pain abdominal,malignant tumor of colon
+949,pain abdominal,neoplasm
+950,pain abdominal,neoplasm metastasis
+951,pain abdominal,pancreatitis
+952,pain abdominal,pneumonia aspiration
+953,pain abdominal,primary carcinoma of the liver cells
+954,pain abdominal,pyelonephritis
+955,pain abdominal,sickle cell anemia
+956,pain abdominal,tachycardia sinus
+957,pain abdominal,tricuspid valve insufficiency
+958,pain abdominal,ulcer peptic
+959,pain chest,anxiety state
+960,pain chest,cardiomyopathy
+961,pain chest,cellulitis
+962,pain chest,coronary arteriosclerosis
+963,pain chest,coronary heart disease
+964,pain chest,diabetes
+965,pain chest,edema pulmonary
+966,pain chest,embolism pulmonary
+967,pain chest,gastroesophageal reflux disease
+968,pain chest,hypercholesterolemia
+969,pain chest,hyperlipidemia
+970,pain chest,hypertensive disease
+971,pain chest,ischemia
+972,pain chest,kidney disease
+973,pain chest,myocardial infarction
+974,pain chest,neoplasm
+975,pain chest,obesity
+976,pain chest,paroxysmal dyspnea
+977,pain chest,sickle cell anemia
+978,pain chest,stenosis aortic valve
+979,pain chest,ulcer peptic
+980,palpitation,anxiety state
+981,palpitation,biliary calculus
+982,palpitation,cardiomyopathy
+983,palpitation,cholelithiasis
+984,palpitation,gastroesophageal reflux disease
+985,palpitation,hyperlipidemia
+986,palpitation,hypertensive disease
+987,palpitation,mitral valve insufficiency
+988,palpitation,myocardial infarction
+989,palpitation,paroxysmal dyspnea
+990,patient non compliance,HIV
+991,patient non compliance,acquired immuno-deficiency syndrome
+992,patient non compliance,affect labile
+993,patient non compliance,anxiety state
+994,patient non compliance,candidiasis
+995,patient non compliance,cardiomyopathy
+996,patient non compliance,cellulitis
+997,patient non compliance,chronic obstructive airway disease
+998,patient non compliance,edema pulmonary
+999,patient non compliance,gout
+1000,patient non compliance,hepatitis C
+1001,patient non compliance,hiv infections
+1002,patient non compliance,oralcandidiasis
+1003,patient non compliance,psychotic disorder
+1004,patient non compliance,schizophrenia
+1005,pleuritic pain,HIV
+1006,pleuritic pain,acquired immuno-deficiency syndrome
+1007,pleuritic pain,asthma
+1008,pleuritic pain,bacteremia
+1009,pleuritic pain,carcinoma prostate
+1010,pleuritic pain,chronic kidney failure
+1011,pleuritic pain,embolism pulmonary
+1012,pleuritic pain,endocarditis
+1013,pleuritic pain,hiv infections
+1014,pleuritic pain,influenza
+1015,pleuritic pain,malignant neoplasm of prostate
+1016,pleuritic pain,pneumonia
+1017,pleuritic pain,upper respiratory infection
+1018,pressure chest,coronary arteriosclerosis
+1019,pressure chest,coronary heart disease
+1020,pressure chest,hypercholesterolemia
+1021,pressure chest,hypertensive disease
+1022,pressure chest,ischemia
+1023,pressure chest,myocardial infarction
+1024,pressure chest,tachycardia sinus
+1025,productive cough,HIV
+1026,productive cough,Pneumocystis carinii pneumonia
+1027,productive cough,acquired immuno-deficiency syndrome
+1028,productive cough,asthma
+1029,productive cough,bronchitis
+1030,productive cough,embolism pulmonary
+1031,productive cough,hiv infections
+1032,productive cough,pneumonia
+1033,productive cough,respiratory failure
+1034,productive cough,spasm bronchial
+1035,productive cough,upper respiratory infection
+1036,prostatism,affect labile
+1037,prostatism,bacteremia
+1038,prostatism,carcinoma colon
+1039,prostatism,dependence
+1040,prostatism,failure kidney
+1041,prostatism,hypothyroidism
+1042,prostatism,malignant tumor of colon
+1043,prostatism,osteoporosis
+1044,prostatism,pneumothorax
+1045,pruritus,cellulitis
+1046,pruritus,cirrhosis
+1047,pruritus,exanthema
+1048,pruritus,hepatitis
+1049,pruritus,hyperglycemia
+1050,pruritus,infection
+1051,pruritus,melanoma
+1052,pruritus,personality disorder
+1053,pruritus,thrombocytopaenia
+1054,pruritus,thrombus
+1055,rale,carcinoma of lung
+1056,rale,carcinoma prostate
+1057,rale,cardiomyopathy
+1058,rale,chronic kidney failure
+1059,rale,deep vein thrombosis
+1060,rale,dementia
+1061,rale,dependence
+1062,rale,diabetes
+1063,rale,edema pulmonary
+1064,rale,emphysema pulmonary
+1065,rale,failure heart congestive
+1066,rale,insufficiency renal
+1067,rale,ischemia
+1068,rale,malignant neoplasm of lung
+1069,rale,malignant neoplasm of prostate
+1070,rale,myocardial infarction
+1071,rale,overload fluid
+1072,rale,paroxysmal dyspnea
+1073,rale,pneumonia
+1074,rale,sepsis 
+1075,rale,septicemia
+1076,rale,systemic infection
+1077,redness,cellulitis
+1078,redness,deep vein thrombosis
+1079,redness,exanthema
+1080,redness,gout
+1081,redness,lymphatic diseases
+1082,redness,osteomyelitis
+1083,redness,respiratory failure
+1084,rhonchus,Alzheimers disease
+1085,rhonchus,anemia
+1086,rhonchus,carcinoma prostate
+1087,rhonchus,dementia
+1088,rhonchus,malignant neoplasm of prostate
+1089,rhonchus,pneumonia
+1090,rhonchus,spasm bronchial
+1091,rhonchus,upper respiratory infection
+1092,seizure,accident cerebrovascular
+1093,seizure,chronic alcoholic intoxication
+1094,seizure,confusion
+1095,seizure,dependence
+1096,seizure,epilepsy
+1097,seizure,hemiparesis
+1098,seizure,hyperglycemia
+1099,seizure,incontinence
+1100,seizure,ketoacidosis diabetic
+1101,seizure,pneumonia aspiration
+1102,shortness of breath,adhesion
+1103,shortness of breath,anemia
+1104,shortness of breath,arthritis
+1105,shortness of breath,asthma
+1106,shortness of breath,bronchitis
+1107,shortness of breath,carcinoma of lung
+1108,shortness of breath,cardiomyopathy
+1109,shortness of breath,chronic alcoholic intoxication
+1110,shortness of breath,chronic kidney failure
+1111,shortness of breath,chronic obstructive airway disease
+1112,shortness of breath,coronary arteriosclerosis
+1113,shortness of breath,coronary heart disease
+1114,shortness of breath,deep vein thrombosis
+1115,shortness of breath,diabetes
+1116,shortness of breath,edema pulmonary
+1117,shortness of breath,effusion pericardial
+1118,shortness of breath,embolism pulmonary
+1119,shortness of breath,endocarditis
+1120,shortness of breath,failure heart
+1121,shortness of breath,failure heart congestive
+1122,shortness of breath,failure kidney
+1123,shortness of breath,fibroid tumor
+1124,shortness of breath,hypercholesterolemia
+1125,shortness of breath,hyperlipidemia
+1126,shortness of breath,hypertension pulmonary
+1127,shortness of breath,hypertensive disease
+1128,shortness of breath,hypothyroidism
+1129,shortness of breath,influenza
+1130,shortness of breath,insufficiency renal
+1131,shortness of breath,ischemia
+1132,shortness of breath,kidney disease
+1133,shortness of breath,malignant neoplasm of lung
+1134,shortness of breath,mitral valve insufficiency
+1135,shortness of breath,myocardial infarction
+1136,shortness of breath,obesity
+1137,shortness of breath,overload fluid
+1138,shortness of breath,paroxysmal dyspnea
+1139,shortness of breath,pericardial effusion body substance
+1140,shortness of breath,peripheral vascular disease
+1141,shortness of breath,pneumonia
+1142,shortness of breath,primary carcinoma of the liver cells
+1143,shortness of breath,respiratory failure
+1144,shortness of breath,sickle cell anemia
+1145,shortness of breath,spasm bronchial
+1146,shortness of breath,stenosis aortic valve
+1147,shortness of breath,tachycardia sinus
+1148,shortness of breath,thrombus
+1149,shortness of breath,tricuspid valve insufficiency
+1150,shortness of breath,upper respiratory infection
+1151,sinus rhythm,cholecystitis
+1152,sinus rhythm,diverticulitis
+1153,sinus rhythm,edema pulmonary
+1154,sinus rhythm,ischemia
+1155,sinus rhythm,peripheral vascular disease
+1156,sinus rhythm,respiratory failure
+1157,sleeplessness,affect labile
+1158,sleeplessness,anxiety state
+1159,sleeplessness,arthritis
+1160,sleeplessness,bipolar disorder
+1161,sleeplessness,chronic alcoholic intoxication
+1162,sleeplessness,delusion
+1163,sleeplessness,depression mental
+1164,sleeplessness,depressive disorder
+1165,sleeplessness,personality disorder
+1166,sleeplessness,psychotic disorder
+1167,sleeplessness,suicide attempt
+1168,sleepy,confusion
+1169,sleepy,delirium
+1170,sleepy,encephalopathy
+1171,sleepy,epilepsy
+1172,sleepy,hemiparesis
+1173,sleepy,hypothyroidism
+1174,sleepy,ischemia
+1175,sleepy,overload fluid
+1176,sleepy,parkinson disease
+1177,sleepy,peripheral vascular disease
+1178,sleepy,tonic-clonic epilepsy
+1179,sleepy,tonic-clonic seizures
+1180,sore to touch,biliary calculus
+1181,sore to touch,carcinoma
+1182,sore to touch,cellulitis
+1183,sore to touch,cholelithiasis
+1184,sore to touch,cirrhosis
+1185,sore to touch,diverticulitis
+1186,sore to touch,gastritis
+1187,sore to touch,gastroenteritis
+1188,sore to touch,gout
+1189,sore to touch,hernia
+1190,sore to touch,hernia hiatal
+1191,sore to touch,hyperglycemia
+1192,sore to touch,ileus
+1193,sore to touch,osteomyelitis
+1194,sore to touch,pancreatitis
+1195,sore to touch,peripheral vascular disease
+1196,sore to touch,thrombus
+1197,spontaneous rupture of membranes,HIV
+1198,spontaneous rupture of membranes,Pneumocystis carinii pneumonia
+1199,spontaneous rupture of membranes,acquired immuno-deficiency syndrome
+1200,spontaneous rupture of membranes,hepatitis
+1201,spontaneous rupture of membranes,hiv infections
+1202,spontaneous rupture of membranes,sepsis 
+1203,spontaneous rupture of membranes,septicemia
+1204,spontaneous rupture of membranes,systemic infection
+1205,suicidal,anxiety state
+1206,suicidal,bipolar disorder
+1207,suicidal,chronic alcoholic intoxication
+1208,suicidal,delirium
+1209,suicidal,delusion
+1210,suicidal,dependence
+1211,suicidal,depression mental
+1212,suicidal,depressive disorder
+1213,suicidal,manic disorder
+1214,suicidal,paranoia
+1215,suicidal,psychotic disorder
+1216,suicidal,schizophrenia
+1217,suicidal,suicide attempt
+1218,sweat,coronary arteriosclerosis
+1219,sweat,coronary heart disease
+1220,sweat,diabetes
+1221,sweat,edema pulmonary
+1222,sweat,gastroesophageal reflux disease
+1223,sweat,hypercholesterolemia
+1224,sweat,hyperlipidemia
+1225,sweat,hypertensive disease
+1226,sweat,ischemia
+1227,sweat,myocardial infarction
+1228,sweat,paroxysmal dyspnea
+1229,sweat,tachycardia sinus
+1230,sweating increased,coronary arteriosclerosis
+1231,sweating increased,coronary heart disease
+1232,sweating increased,diabetes
+1233,sweating increased,edema pulmonary
+1234,sweating increased,gastroesophageal reflux disease
+1235,sweating increased,hypercholesterolemia
+1236,sweating increased,hyperlipidemia
+1237,sweating increased,hypertensive disease
+1238,sweating increased,ischemia
+1239,sweating increased,myocardial infarction
+1240,sweating increased,paroxysmal dyspnea
+1241,sweating increased,tachycardia sinus
+1242,swelling,anemia
+1243,swelling,arthritis
+1244,swelling,carcinoma breast
+1245,swelling,cellulitis
+1246,swelling,chronic kidney failure
+1247,swelling,deep vein thrombosis
+1248,swelling,exanthema
+1249,swelling,gout
+1250,swelling,infection
+1251,swelling,insufficiency renal
+1252,swelling,lymphatic diseases
+1253,swelling,malignant neoplasm of breast
+1254,swelling,osteomyelitis
+1255,swelling,overload fluid
+1256,syncope,arthritis
+1257,syncope,cardiomyopathy
+1258,syncope,dehydration
+1259,syncope,dementia
+1260,syncope,hypercholesterolemia
+1261,syncope,hypertensive disease
+1262,syncope,hypothyroidism
+1263,syncope,incontinence
+1264,syncope,mitral valve insufficiency
+1265,syncope,myocardial infarction
+1266,syncope,osteoporosis
+1267,syncope,parkinson disease
+1268,syncope,stenosis aortic valve
+1269,syncope,transient ischemic attack
+1270,tachypnea,HIV
+1271,tachypnea,acquired immuno-deficiency syndrome
+1272,tachypnea,edema pulmonary
+1273,tachypnea,embolism pulmonary
+1274,tachypnea,hepatitis
+1275,tachypnea,hepatitis B
+1276,tachypnea,hiv infections
+1277,tachypnea,hyperbilirubinemia
+1278,tachypnea,pneumonia
+1279,tachypnea,respiratory failure
+1280,tachypnea,sepsis 
+1281,tachypnea,septicemia
+1282,tachypnea,spasm bronchial
+1283,tachypnea,systemic infection
+1284,tachypnea,thrombocytopaenia
+1285,thicken,biliary calculus
+1286,thicken,carcinoma
+1287,thicken,cholelithiasis
+1288,thicken,colitis
+1289,thicken,diverticulitis
+1290,thicken,encephalopathy
+1291,thicken,endocarditis
+1292,thicken,hernia
+1293,thicken,ileus
+1294,thicken,malignant neoplasms
+1295,thicken,mitral valve insufficiency
+1296,thicken,neoplasm
+1297,thicken,neoplasm metastasis
+1298,thicken,primary carcinoma of the liver cells
+1299,thicken,primary malignant neoplasm
+1300,throat sore,bronchitis
+1301,throat sore,candidiasis
+1302,throat sore,influenza
+1303,throat sore,oralcandidiasis
+1304,throat sore,spasm bronchial
+1305,throat sore,upper respiratory infection
+1306,transaminitis,Pneumocystis carinii pneumonia
+1307,transaminitis,anemia
+1308,transaminitis,candidiasis
+1309,transaminitis,hepatitis
+1310,transaminitis,lymphoma
+1311,transaminitis,neutropenia
+1312,transaminitis,oralcandidiasis
+1313,transaminitis,pneumonia aspiration
+1314,tremor,Alzheimers disease
+1315,tremor,anxiety state
+1316,tremor,bipolar disorder
+1317,tremor,chronic alcoholic intoxication
+1318,tremor,confusion
+1319,tremor,dependence
+1320,tremor,depression mental
+1321,tremor,depressive disorder
+1322,tremor,epilepsy
+1323,tremor,incontinence
+1324,tremor,parkinson disease
+1325,tremor,psychotic disorder
+1326,tremor,suicide attempt
+1327,tremor,tonic-clonic epilepsy
+1328,tremor,tonic-clonic seizures
+1329,tumor cell invasion,anemia
+1330,tumor cell invasion,carcinoma
+1331,tumor cell invasion,carcinoma prostate
+1332,tumor cell invasion,cirrhosis
+1333,tumor cell invasion,malignant neoplasm of prostate
+1334,tumor cell invasion,neoplasm
+1335,tumor cell invasion,neoplasm metastasis
+1336,tumor cell invasion,primary carcinoma of the liver cells
+1337,tumor cell invasion,tonic-clonic epilepsy
+1338,tumor cell invasion,tonic-clonic seizures
+1339,unconscious state,chronic alcoholic intoxication
+1340,unconscious state,confusion
+1341,unconscious state,dementia
+1342,unconscious state,glaucoma
+1343,unconscious state,hypoglycemia
+1344,unconscious state,incontinence
+1345,unconscious state,suicide attempt
+1346,unresponsiveness,accident cerebrovascular
+1347,unresponsiveness,bacteremia
+1348,unresponsiveness,chronic kidney failure
+1349,unresponsiveness,confusion
+1350,unresponsiveness,delirium
+1351,unresponsiveness,dementia
+1352,unresponsiveness,diabetes
+1353,unresponsiveness,embolism pulmonary
+1354,unresponsiveness,encephalopathy
+1355,unresponsiveness,epilepsy
+1356,unresponsiveness,failure kidney
+1357,unresponsiveness,hemiparesis
+1358,unresponsiveness,hypoglycemia
+1359,unresponsiveness,incontinence
+1360,unresponsiveness,kidney failure acute
+1361,unresponsiveness,parkinson disease
+1362,unresponsiveness,peripheral vascular disease
+1363,unresponsiveness,pneumonia aspiration
+1364,unresponsiveness,respiratory failure
+1365,unresponsiveness,sepsis 
+1366,unresponsiveness,septicemia
+1367,unresponsiveness,suicide attempt
+1368,unresponsiveness,systemic infection
+1369,unresponsiveness,tonic-clonic epilepsy
+1370,unresponsiveness,tonic-clonic seizures
+1371,unsteady gait,adhesion
+1372,unsteady gait,degenerative polyarthritis
+1373,unsteady gait,delirium
+1374,unsteady gait,dementia
+1375,unsteady gait,diverticulitis
+1376,unsteady gait,glaucoma
+1377,unsteady gait,hypothyroidism
+1378,verbal auditory hallucinations,bipolar disorder
+1379,verbal auditory hallucinations,depression mental
+1380,verbal auditory hallucinations,depressive disorder
+1381,verbal auditory hallucinations,manic disorder
+1382,verbal auditory hallucinations,paranoia
+1383,verbal auditory hallucinations,psychotic disorder
+1384,verbal auditory hallucinations,schizophrenia
+1385,vertigo,carcinoma prostate
+1386,vertigo,diabetes
+1387,vertigo,hypertensive disease
+1388,vertigo,malignant neoplasm of prostate
+1389,vertigo,osteoporosis
+1390,vertigo,transient ischemic attack
+1391,vomiting,adhesion
+1392,vomiting,bacteremia
+1393,vomiting,biliary calculus
+1394,vomiting,carcinoma colon
+1395,vomiting,cholelithiasis
+1396,vomiting,chronic kidney failure
+1397,vomiting,colitis
+1398,vomiting,dehydration
+1399,vomiting,diabetes
+1400,vomiting,diverticulitis
+1401,vomiting,gastritis
+1402,vomiting,hepatitis
+1403,vomiting,hernia hiatal
+1404,vomiting,hypothyroidism
+1405,vomiting,ketoacidosis diabetic
+1406,vomiting,malignant tumor of colon
+1407,vomiting,melanoma
+1408,vomiting,migraine disorders
+1409,vomiting,mitral valve insufficiency
+1410,vomiting,pancreatitis
+1411,vomiting,pyelonephritis
+1412,vomiting,spasm bronchial
+1413,vomiting,tachycardia sinus
+1414,vomiting,thrombus
+1415,vomiting,tricuspid valve insufficiency
+1416,vomiting,ulcer peptic
+1417,weepiness,anxiety state
+1418,weepiness,bipolar disorder
+1419,weepiness,delusion
+1420,weepiness,depression mental
+1421,weepiness,depressive disorder
+1422,weepiness,personality disorder
+1423,weepiness,psychotic disorder
+1424,weepiness,suicide attempt
+1425,wheezing,asthma
+1426,wheezing,bronchitis
+1427,wheezing,chronic obstructive airway disease
+1428,wheezing,edema pulmonary
+1429,wheezing,embolism pulmonary
+1430,wheezing,failure heart congestive
+1431,wheezing,hemorrhoids
+1432,wheezing,hyperglycemia
+1433,wheezing,obesity morbid
+1434,wheezing,pneumonia
+1435,wheezing,upper respiratory infection
+1436,worry,anxiety state
+1437,worry,bipolar disorder
+1438,worry,delirium
+1439,worry,delusion
+1440,worry,depression mental
+1441,worry,depressive disorder
+1442,worry,hypercholesterolemia
+1443,worry,parkinson disease
+1444,worry,personality disorder
+1445,worry,psychotic disorder
+1446,worry,schizophrenia
+1447,worry,suicide attempt
+1448,yellow sputum,Pneumocystis carinii pneumonia
+1449,yellow sputum,cardiomyopathy
+1450,yellow sputum,chronic kidney failure
+1451,yellow sputum,embolism pulmonary
+1452,yellow sputum,hepatitis B
+1453,yellow sputum,pneumonia

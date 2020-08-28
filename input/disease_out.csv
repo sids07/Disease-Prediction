@@ -1,0 +1,1455 @@
+Symptom,Disease
+abdominal tenderness,{}
+abdominal tenderness,{}
+abdominal tenderness,{}
+abdominal tenderness,{}
+abdominal tenderness,{'B': 1}
+abdominal tenderness,{}
+abdominal tenderness,{}
+abdominal tenderness,{'oralcandidiasis': 1}
+abscess bacterial,{}
+abscess bacterial,{}
+abscess bacterial,{}
+abscess bacterial,{}
+abscess bacterial,{}
+abscess bacterial,{}
+abscess bacterial,{}
+agitation,{'Alzheimers': 1}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+agitation,{}
+angina pectoris,{}
+angina pectoris,{}
+angina pectoris,{}
+angina pectoris,{}
+angina pectoris,{}
+angina pectoris,{}
+angina pectoris,{}
+angina pectoris,{}
+angina pectoris,{}
+angina pectoris,{}
+anorexia,{}
+anorexia,{}
+anorexia,{}
+anorexia,{}
+anorexia,{}
+anorexia,{}
+anorexia,{}
+anorexia,{}
+apyrexial,{}
+apyrexial,{'cholelithiasis': 1}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{'exanthema': 1}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+apyrexial,{}
+ascites,{}
+ascites,{}
+ascites,{'cholelithiasis': 1}
+ascites,{}
+ascites,{}
+ascites,{}
+ascites,{'C': 1}
+ascites,{}
+ascites,{}
+ascites,{}
+ascites,{}
+ascites,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{'deglutition': 1}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+asthenia,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+blackout,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+bradycardia,{}
+breath sounds decreased,{}
+breath sounds decreased,{}
+breath sounds decreased,{}
+breath sounds decreased,{}
+breath sounds decreased,{}
+breath sounds decreased,{}
+breath sounds decreased,{}
+chest discomfort,{}
+chest discomfort,{}
+chest discomfort,{}
+chest discomfort,{}
+chest discomfort,{}
+chest discomfort,{}
+chest discomfort,{}
+chest tightness,{}
+chest tightness,{}
+chest tightness,{}
+chest tightness,{}
+chest tightness,{}
+chest tightness,{}
+chest tightness,{}
+chest tightness,{}
+chest tightness,{}
+chill,{'HIV': 1}
+chill,{'Pneumocystis': 1}
+chill,{'immuno-deficiency': 1}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+chill,{'exanthema': 1}
+chill,{}
+chill,{'C': 1}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+chill,{'oralcandidiasis': 1}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+chill,{}
+consciousness clear,{'Alzheimers': 1}
+consciousness clear,{}
+consciousness clear,{}
+consciousness clear,{}
+consciousness clear,{}
+consciousness clear,{}
+consciousness clear,{}
+constipation,{}
+constipation,{}
+constipation,{}
+constipation,{}
+constipation,{}
+constipation,{}
+constipation,{}
+constipation,{}
+constipation,{}
+constipation,{}
+cough,{'Alzheimers': 1}
+cough,{'HIV': 1}
+cough,{'immuno-deficiency': 1}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{'C': 1}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cough,{}
+cushingoid facies,{}
+cushingoid facies,{'cholelithiasis': 1}
+cushingoid facies,{}
+cushingoid facies,{}
+cushingoid facies,{}
+cushingoid facies,{}
+cushingoid facies,{}
+cushingoid habitus,{}
+cushingoid habitus,{'cholelithiasis': 1}
+cushingoid habitus,{}
+cushingoid habitus,{}
+cushingoid habitus,{}
+cushingoid habitus,{}
+cushingoid habitus,{}
+decreased body weight,{'HIV': 1}
+decreased body weight,{'Pneumocystis': 1}
+decreased body weight,{'immuno-deficiency': 1}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{'deglutition': 1}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{'oralcandidiasis': 1}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased body weight,{}
+decreased translucency,{}
+decreased translucency,{}
+decreased translucency,{}
+decreased translucency,{}
+decreased translucency,{}
+decreased translucency,{}
+decreased translucency,{}
+decreased translucency,{}
+diarrhea,{'HIV': 1}
+diarrhea,{'Pneumocystis': 1}
+diarrhea,{'immuno-deficiency': 1}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{'cholelithiasis': 1}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{'oralcandidiasis': 1}
+diarrhea,{}
+diarrhea,{}
+diarrhea,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+difficulty,{}
+distended abdomen,{}
+distended abdomen,{}
+distended abdomen,{}
+distended abdomen,{}
+distended abdomen,{'C': 1}
+distended abdomen,{}
+distended abdomen,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+distress respiratory,{}
+dizziness,{}
+dizziness,{}
+dizziness,{}
+dizziness,{}
+dizziness,{}
+dizziness,{}
+dizziness,{}
+dizziness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+drowsiness,{}
+dysarthria,{}
+dysarthria,{}
+dysarthria,{}
+dysarthria,{'deglutition': 1}
+dysarthria,{}
+dysarthria,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea,{}
+dyspnea on exertion,{'Pneumocystis': 1}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+dyspnea on exertion,{}
+energy increased,{}
+energy increased,{}
+energy increased,{}
+energy increased,{}
+energy increased,{}
+energy increased,{}
+erythema,{}
+erythema,{}
+erythema,{}
+erythema,{'exanthema': 1}
+erythema,{}
+erythema,{}
+erythema,{}
+erythema,{}
+facial paresis,{'Alzheimers': 1}
+facial paresis,{}
+facial paresis,{}
+facial paresis,{}
+facial paresis,{}
+facial paresis,{}
+facial paresis,{}
+facial paresis,{}
+facial paresis,{}
+facial paresis,{}
+fall,{}
+fall,{}
+fall,{}
+fall,{}
+fall,{}
+fall,{}
+fall,{}
+fall,{}
+fall,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{}
+fatigue,{'thrombocytopaenia': 1}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling hopeless,{}
+feeling suicidal,{'HIV': 1}
+feeling suicidal,{'immuno-deficiency': 1}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{'C': 1}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{}
+feeling suicidal,{}
+fever,{'Alzheimers': 1}
+fever,{'HIV': 1}
+fever,{'immuno-deficiency': 1}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{'decubitus': 1}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{'exanthema': 1}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{}
+fever,{'thrombocytopaenia': 1}
+fever,{}
+fever,{}
+general discomfort,{}
+general discomfort,{}
+general discomfort,{}
+general discomfort,{}
+general discomfort,{}
+general discomfort,{}
+guaiac positive,{}
+guaiac positive,{}
+guaiac positive,{}
+guaiac positive,{}
+guaiac positive,{}
+guaiac positive,{}
+guaiac positive,{}
+guaiac positive,{}
+guaiac positive,{}
+gurgle,{}
+gurgle,{}
+gurgle,{}
+gurgle,{}
+gurgle,{}
+gurgle,{}
+haemoptysis,{}
+haemoptysis,{}
+haemoptysis,{}
+haemoptysis,{}
+haemoptysis,{}
+haemoptysis,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{}
+haemorrhage,{'thrombocytopaenia': 1}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{'C': 1}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations auditory,{}
+hallucinations visual,{}
+hallucinations visual,{}
+hallucinations visual,{}
+hallucinations visual,{}
+hallucinations visual,{}
+hallucinations visual,{}
+hallucinations visual,{}
+hallucinations visual,{}
+hallucinations visual,{}
+hallucinations visual,{}
+headache,{'Pneumocystis': 1}
+headache,{}
+headache,{}
+headache,{'exanthema': 1}
+headache,{}
+headache,{}
+headache,{}
+headache,{'oralcandidiasis': 1}
+headache,{}
+headache,{}
+headache,{}
+headache,{}
+hematuria,{}
+hematuria,{}
+hematuria,{}
+hematuria,{}
+hematuria,{}
+hematuria,{}
+hematuria,{}
+hematuria,{}
+hemiplegia,{}
+hemiplegia,{}
+hemiplegia,{}
+hemiplegia,{}
+hemiplegia,{}
+hemiplegia,{}
+hemiplegia,{}
+hemiplegia,{}
+hemiplegia,{}
+hemiplegia,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+hemodynamically stable,{}
+homelessness,{}
+homelessness,{}
+homelessness,{}
+homelessness,{}
+homelessness,{}
+homelessness,{}
+homelessness,{}
+homelessness,{}
+homelessness,{}
+hyperkalemia,{'Alzheimers': 1}
+hyperkalemia,{}
+hyperkalemia,{}
+hyperkalemia,{}
+hyperkalemia,{}
+hyperkalemia,{}
+hyperkalemia,{}
+hyperkalemia,{}
+hyperkalemia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hypokinesia,{}
+hyponatremia,{}
+hyponatremia,{}
+hyponatremia,{}
+hyponatremia,{}
+hyponatremia,{}
+hyponatremia,{}
+hyponatremia,{}
+hyponatremia,{}
+hyponatremia,{}
+hyponatremia,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{}
+hypotension,{'thrombocytopaenia': 1}
+intoxication,{}
+intoxication,{}
+intoxication,{}
+intoxication,{}
+intoxication,{}
+intoxication,{}
+intoxication,{}
+intoxication,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+irritable mood,{}
+jugular venous distention,{}
+jugular venous distention,{}
+jugular venous distention,{}
+jugular venous distention,{}
+jugular venous distention,{}
+jugular venous distention,{}
+jugular venous distention,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{'deglutition': 1}
+lesion,{'exanthema': 1}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lesion,{}
+lethargy,{}
+lethargy,{}
+lethargy,{}
+lethargy,{}
+lethargy,{}
+lethargy,{}
+lethargy,{}
+lethargy,{}
+lethargy,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mass of body structure,{}
+mental status changes,{}
+mental status changes,{}
+mental status changes,{}
+mental status changes,{}
+mental status changes,{}
+mental status changes,{}
+mental status changes,{}
+mental status changes,{}
+mental status changes,{}
+metastatic lesion,{}
+metastatic lesion,{}
+metastatic lesion,{}
+metastatic lesion,{}
+metastatic lesion,{}
+metastatic lesion,{}
+mood depressed,{}
+mood depressed,{}
+mood depressed,{}
+mood depressed,{}
+mood depressed,{}
+mood depressed,{}
+mood depressed,{}
+mood depressed,{}
+motor retardation,{}
+motor retardation,{}
+motor retardation,{}
+motor retardation,{}
+motor retardation,{}
+motor retardation,{}
+muscle twitch,{'Alzheimers': 1}
+muscle twitch,{}
+muscle twitch,{}
+muscle twitch,{}
+muscle twitch,{}
+muscle twitch,{}
+muscle twitch,{}
+myalgia,{'Pneumocystis': 1}
+myalgia,{}
+myalgia,{}
+myalgia,{}
+myalgia,{}
+myalgia,{}
+myalgia,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{'cholelithiasis': 1}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+nausea,{}
+night sweat,{'HIV': 1}
+night sweat,{'immuno-deficiency': 1}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+night sweat,{'oralcandidiasis': 1}
+night sweat,{}
+night sweat,{}
+night sweat,{}
+nightmare,{'Alzheimers': 1}
+nightmare,{}
+nightmare,{}
+nightmare,{}
+nightmare,{}
+nightmare,{}
+nightmare,{}
+non-productive cough,{'Pneumocystis': 1}
+non-productive cough,{}
+non-productive cough,{}
+non-productive cough,{}
+non-productive cough,{}
+non-productive cough,{}
+non-productive cough,{}
+non-productive cough,{}
+non-productive cough,{'oralcandidiasis': 1}
+non-productive cough,{}
+non-productive cough,{}
+numbness,{}
+numbness,{}
+numbness,{}
+numbness,{}
+numbness,{}
+numbness,{}
+oliguria,{}
+oliguria,{}
+oliguria,{}
+oliguria,{}
+oliguria,{}
+oliguria,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthopnea,{}
+orthostasis,{}
+orthostasis,{}
+orthostasis,{}
+orthostasis,{}
+orthostasis,{}
+orthostasis,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{'cholelithiasis': 1}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{'exanthema': 1}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{'cholelithiasis': 1}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{'B': 1}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain abdominal,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+pain chest,{}
+palpitation,{}
+palpitation,{}
+palpitation,{}
+palpitation,{'cholelithiasis': 1}
+palpitation,{}
+palpitation,{}
+palpitation,{}
+palpitation,{}
+palpitation,{}
+palpitation,{}
+patient non compliance,{'HIV': 1}
+patient non compliance,{'immuno-deficiency': 1}
+patient non compliance,{}
+patient non compliance,{}
+patient non compliance,{}
+patient non compliance,{}
+patient non compliance,{}
+patient non compliance,{}
+patient non compliance,{}
+patient non compliance,{}
+patient non compliance,{'C': 1}
+patient non compliance,{}
+patient non compliance,{'oralcandidiasis': 1}
+patient non compliance,{}
+patient non compliance,{}
+pleuritic pain,{'HIV': 1}
+pleuritic pain,{'immuno-deficiency': 1}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pleuritic pain,{}
+pressure chest,{}
+pressure chest,{}
+pressure chest,{}
+pressure chest,{}
+pressure chest,{}
+pressure chest,{}
+pressure chest,{}
+productive cough,{'HIV': 1}
+productive cough,{'Pneumocystis': 1}
+productive cough,{'immuno-deficiency': 1}
+productive cough,{}
+productive cough,{}
+productive cough,{}
+productive cough,{}
+productive cough,{}
+productive cough,{}
+productive cough,{}
+productive cough,{}
+prostatism,{}
+prostatism,{}
+prostatism,{}
+prostatism,{}
+prostatism,{}
+prostatism,{}
+prostatism,{}
+prostatism,{}
+prostatism,{}
+pruritus,{}
+pruritus,{}
+pruritus,{'exanthema': 1}
+pruritus,{}
+pruritus,{}
+pruritus,{}
+pruritus,{}
+pruritus,{}
+pruritus,{'thrombocytopaenia': 1}
+pruritus,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+rale,{}
+redness,{}
+redness,{}
+redness,{'exanthema': 1}
+redness,{}
+redness,{}
+redness,{}
+redness,{}
+rhonchus,{'Alzheimers': 1}
+rhonchus,{}
+rhonchus,{}
+rhonchus,{}
+rhonchus,{}
+rhonchus,{}
+rhonchus,{}
+rhonchus,{}
+seizure,{}
+seizure,{}
+seizure,{}
+seizure,{}
+seizure,{}
+seizure,{}
+seizure,{}
+seizure,{}
+seizure,{}
+seizure,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+shortness of breath,{}
+sinus rhythm,{}
+sinus rhythm,{}
+sinus rhythm,{}
+sinus rhythm,{}
+sinus rhythm,{}
+sinus rhythm,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleeplessness,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sleepy,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{'cholelithiasis': 1}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+sore to touch,{}
+spontaneous rupture of membranes,{'HIV': 1}
+spontaneous rupture of membranes,{'Pneumocystis': 1}
+spontaneous rupture of membranes,{'immuno-deficiency': 1}
+spontaneous rupture of membranes,{}
+spontaneous rupture of membranes,{}
+spontaneous rupture of membranes,{}
+spontaneous rupture of membranes,{}
+spontaneous rupture of membranes,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+suicidal,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweat,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+sweating increased,{}
+swelling,{}
+swelling,{}
+swelling,{}
+swelling,{}
+swelling,{}
+swelling,{}
+swelling,{'exanthema': 1}
+swelling,{}
+swelling,{}
+swelling,{}
+swelling,{}
+swelling,{}
+swelling,{}
+swelling,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+syncope,{}
+tachypnea,{'HIV': 1}
+tachypnea,{'immuno-deficiency': 1}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{'B': 1}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{}
+tachypnea,{'thrombocytopaenia': 1}
+thicken,{}
+thicken,{}
+thicken,{'cholelithiasis': 1}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+thicken,{}
+throat sore,{}
+throat sore,{}
+throat sore,{}
+throat sore,{'oralcandidiasis': 1}
+throat sore,{}
+throat sore,{}
+transaminitis,{'Pneumocystis': 1}
+transaminitis,{}
+transaminitis,{}
+transaminitis,{}
+transaminitis,{}
+transaminitis,{}
+transaminitis,{'oralcandidiasis': 1}
+transaminitis,{}
+tremor,{'Alzheimers': 1}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tremor,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+tumor cell invasion,{}
+unconscious state,{}
+unconscious state,{}
+unconscious state,{}
+unconscious state,{}
+unconscious state,{}
+unconscious state,{}
+unconscious state,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unresponsiveness,{}
+unsteady gait,{}
+unsteady gait,{}
+unsteady gait,{}
+unsteady gait,{}
+unsteady gait,{}
+unsteady gait,{}
+unsteady gait,{}
+verbal auditory hallucinations,{}
+verbal auditory hallucinations,{}
+verbal auditory hallucinations,{}
+verbal auditory hallucinations,{}
+verbal auditory hallucinations,{}
+verbal auditory hallucinations,{}
+verbal auditory hallucinations,{}
+vertigo,{}
+vertigo,{}
+vertigo,{}
+vertigo,{}
+vertigo,{}
+vertigo,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{'cholelithiasis': 1}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+vomiting,{}
+weepiness,{}
+weepiness,{}
+weepiness,{}
+weepiness,{}
+weepiness,{}
+weepiness,{}
+weepiness,{}
+weepiness,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+wheezing,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+worry,{}
+yellow sputum,{'Pneumocystis': 1}
+yellow sputum,{}
+yellow sputum,{}
+yellow sputum,{}
+yellow sputum,{'B': 1}
+yellow sputum,{}
